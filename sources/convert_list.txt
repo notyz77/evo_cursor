@@ -1,0 +1,176 @@
+total 9.5M
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 cell
+
+=====================================================================================
+
+lrwxrwxrwx 1 root root    5 Sep 15  2020 9d800788f1b08800ae810202380a0822 -> hand2
+lrwxrwxrwx 1 root root    5 Sep 15  2020 e29285e634086352946a0e7090d73106 -> hand2
+lrwxrwxrwx 1 root root    4 Sep 15  2020 pointer -> hand
+lrwxrwxrwx 1 root root    5 Sep 15  2020 hand -> hand2
+-rw-r--r-- 1 root root 254K Feb 27 17:56 hand2
+
+lrwxrwxrwx 1 root root   19 Sep 15  2020 se-resize -> bottom_right_corner
+-rw-r--r-- 1 root root  91K Feb 27 18:29 bottom_right_corner
+
+lrwxrwxrwx 1 root root   15 Sep 15  2020 nw-resize -> top_left_corner
+-rw-r--r-- 1 root root  91K Feb 27 18:14 top_left_corner
+
+lrwxrwxrwx 1 root root   18 Sep 15  2020 sw-resize -> bottom_left_corner
+-rw-r--r-- 1 root root  91K Feb 27 18:27 bottom_left_corner
+
+lrwxrwxrwx 1 root root   16 Sep 15  2020 ne-resize -> top_right_corner
+-rw-r--r-- 1 root root  91K Feb 27 18:12 top_right_corner
+
+lrwxrwxrwx 1 root root    9 Sep 15  2020 w-resize -> left_side
+-rw-r--r-- 1 root root  91K Feb 27 18:18 left_side
+
+lrwxrwxrwx 1 root root   10 Sep 15  2020 e-resize -> right_side
+-rw-r--r-- 1 root root  91K Feb 27 18:21 right_side
+
+lrwxrwxrwx 1 root root   11 Sep 15  2020 s-resize -> bottom_side
+-rw-r--r-- 1 root root  91K Feb 27 18:23 bottom_side
+
+lrwxrwxrwx 1 root root    8 Sep 15  2020 n-resize -> top_side
+-rw-r--r-- 1 root root  91K Feb 27 18:08 top_side
+
+lrwxrwxrwx 1 root root    5 Sep 15  2020 wait -> watch
+-rw-r--r-- 1 root root 453K Feb 27 17:14 watch
+
+lrwxrwxrwx 1 root root    8 Sep 15  2020 arrow -> left_ptr
+lrwxrwxrwx 1 root root    8 Sep 15  2020 default -> left_ptr
+-rw-r--r-- 1 root root 724K Feb 27 16:59 left_ptr
+lrwxrwxrwx 1 root root    8 Sep 15  2020 top_left_arrow -> left_ptr
+
+lrwxrwxrwx 1 root root    5 Sep 15  2020 text -> xterm
+-rw-r--r-- 1 root root 272K Feb 27 16:59 xterm
+
+lrwxrwxrwx 1 root root   17 Sep 15  2020 14fef782d02440884392942c11205230 -> sb_h_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 col-resize -> sb_h_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 ew-resize -> sb_h_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 h_double_arrow -> sb_h_double_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 028006030e0e7ebffc7f7070c0600140 -> h_double_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 size_hor -> h_double_arrow
+-rw-r--r-- 1 root root  68K Sep 15  2020 sb_h_double_arrow
+
+lrwxrwxrwx 1 root root   17 Sep 15  2020 2870a09082c103050810ffdffffe0204 -> sb_v_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 double_arrow -> sb_v_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 ns-resize -> sb_v_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 row-resize -> sb_v_double_arrow
+-rw-r--r-- 1 root root  68K Sep 15  2020 sb_v_double_arrow
+lrwxrwxrwx 1 root root   17 Sep 15  2020 v_double_arrow -> sb_v_double_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 00008160000006810000408080010102 -> v_double_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 size_ver -> v_double_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 all-scroll
+lrwxrwxrwx 1 root root   10 Sep 15  2020 fleur -> all-scroll
+lrwxrwxrwx 1 root root    5 Sep 15  2020 size_all -> fleur
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 pencil
+
+lrwxrwxrwx 1 root root   14 Sep 15  2020 5c6cd98b3f3ebcb1f9c7f1c204630408 -> question_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 d9ce0ab605698f320427677b458ad60b -> question_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 help -> question_arrow
+lrwxrwxrwx 1 root root   14 Sep 15  2020 left_ptr_help -> question_arrow
+-rw-r--r-- 1 root root  68K Sep 15  2020 question_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 dnd-move
+
+lrwxrwxrwx 1 root root   14 Sep 15  2020 08e8e1c95fe2fc01f976f1e063a24ccd -> left_ptr_watch
+lrwxrwxrwx 1 root root   14 Sep 15  2020 3ecb610c1bf2410f44200f48c40d3599 -> left_ptr_watch
+-rw-r--r-- 1 root root 4.0M Sep 15  2020 left_ptr_watch
+lrwxrwxrwx 1 root root   14 Sep 15  2020 progress -> left_ptr_watch
+
+lrwxrwxrwx 1 root root    8 Sep 15  2020 pirate -> X_cursor
+-rw-r--r-- 1 root root  68K Sep 15  2020 X_cursor (hud red) (cross)
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 cross
+lrwxrwxrwx 1 root root    5 Sep 15  2020 crosshair -> cross
+lrwxrwxrwx 1 root root    5 Sep 15  2020 cross_reverse -> cross
+lrwxrwxrwx 1 root root    5 Sep 15  2020 diamond_cross -> cross
+
+lrwxrwxrwx 1 root root    5 Sep 15  2020 grab -> hand1
+-rw-r--r-- 1 root root  68K Sep 15  2020 hand1
+-rw-r--r-- 1 root root  68K Feb 27 17:52 move -> hand1
+lrwxrwxrwx 1 root root    4 Sep 15  2020 4498f0e0c1937ffe01fd06f973665830 -> move
+lrwxrwxrwx 1 root root    4 Sep 15  2020 9081237383d90e509aa00f00170e968f -> move
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 plus	(hud red)
+
+lrwxrwxrwx 1 root root    4 Sep 15  2020 640fb0e74195791501fd1ed57b41487f -> link
+lrwxrwxrwx 1 root root    4 Sep 15  2020 3085a0e285430894940527032f8b26df -> link
+lrwxrwxrwx 1 root root    8 Sep 15  2020 alias -> dnd-link
+-rw-r--r-- 1 root root  68K Sep 15  2020 dnd-ask -> dnd-link
+-rw-r--r-- 1 root root  68K Sep 15  2020 dnd-copy -> dnd-link
+-rw-r--r-- 1 root root  68K Feb 27 17:52 link -> dnd-link
+lrwxrwxrwx 1 root root    8 Sep 15  2020 copy -> dnd-copy
+lrwxrwxrwx 1 root root    4 Sep 15  2020 1081e37283d90000800003c07f3ef6bf -> copy
+lrwxrwxrwx 1 root root    4 Sep 15  2020 6407b0e94181790501fd1e167b474872 -> copy
+-rw-r--r-- 1 root root  68K Sep 15  2020 dnd-link 	(hud red)
+
+lrwxrwxrwx 1 root root   14 Sep 15  2020 03b6e0fcb3499374a867c041f52298f0 -> crossed_circle
+lrwxrwxrwx 1 root root   14 Sep 15  2020 not-allowed -> crossed_circle
+-rw-r--r-- 1 root root  68K Sep 15  2020 crossed_circle (hud red) (crossed_circle)
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 sb_down_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 sb_up_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 sb_left_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 sb_right_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 bd_double_arrow
+lrwxrwxrwx 1 root root   15 Sep 15  2020 c7088f0f3e6c8088236ef8e1e3e70000 -> bd_double_arrow
+lrwxrwxrwx 1 root root   15 Sep 15  2020 nwse-resize -> bd_double_arrow
+lrwxrwxrwx 1 root root   15 Sep 15  2020 size_fdiag -> bd_double_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 fd_double_arrow
+lrwxrwxrwx 1 root root   15 Sep 15  2020 fcf1c3c7cd4491d801f1e1c78f100000 -> fd_double_arrow
+lrwxrwxrwx 1 root root   15 Sep 15  2020 nesw-resize -> fd_double_arrow
+lrwxrwxrwx 1 root root   15 Sep 15  2020 size_bdiag -> fd_double_arrow
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 vertical-text
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 right_ptr
+lrwxrwxrwx 1 root root    9 Sep 15  2020 draft_large -> right_ptr
+lrwxrwxrwx 1 root root    9 Sep 15  2020 draft_small -> right_ptr
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 grabbing
+-rw-r--r-- 1 root root  68K Sep 15  2020 dnd-none -> grabbing
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 circle
+-rw-r--r-- 1 root root  68K Sep 15  2020 dnd-no-drop -> circle
+lrwxrwxrwx 1 root root   11 Sep 15  2020 no-drop -> dnd-no-drop
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 dotbox
+lrwxrwxrwx 1 root root    6 Sep 15  2020 dot_box_mask -> dotbox
+lrwxrwxrwx 1 root root    6 Sep 15  2020 draped_box -> dotbox
+lrwxrwxrwx 1 root root    6 Sep 15  2020 icon -> dotbox
+lrwxrwxrwx 1 root root    6 Sep 15  2020 target -> dotbox
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 lr_angle
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 ll_angle
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 ul_angle
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 ur_angle
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 zoom-in
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 zoom-out
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 bottom_tee
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 top_tee
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 left_tee
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 right_tee
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 tcross
+
+-rw-r--r-- 1 root root  68K Feb 27 18:05 pointer-move
+
+-rw-r--r-- 1 root root  68K Sep 15  2020 context-menu
